@@ -1,0 +1,14 @@
+{
+  "name": "1.-intro",
+  "version": "1.0.0",
+  "description": "DOG",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "isaac",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^6.0.0"
+  }
+}
